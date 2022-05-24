@@ -1,0 +1,5 @@
+# Project exclude paths
+/demo-admin/target/
+/demo-common/target/
+/demo-framework/target/
+/demo-system/target/
